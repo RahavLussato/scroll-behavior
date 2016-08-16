@@ -39,7 +39,7 @@
     "invariant": "^2.2.1"
   },
   "peerDependencies": {
-    "history": "^1.12.1 || ^2.0.0"
+    "history": "^1.12.1 || ^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
